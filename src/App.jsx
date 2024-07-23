@@ -6,6 +6,12 @@ import './App.css';
 import './AppNew.css'
 import Residencies from './components/Residencies/Residencies';
 import Values from './components/Values/Values';
+import Contact from './components/Contact/contact';
+import GetStarted from './components/GetStarted/GetStarted'; 
+import Foot from './components/Foot/Foot';
+
+
+
 
 const App=() => {
   return (
@@ -18,6 +24,11 @@ const App=() => {
     <Companies/>
     <Residencies/>
     <Values/>
+    <Contact/>
+    <GetStarted/>
+    <Foot/>
+
+    
   
    </div>
    
