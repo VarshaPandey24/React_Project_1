@@ -4,9 +4,7 @@ import './Header.css';
 
  const Header =()=>{
     const [menuOpened,setMenuOpened]=useState(false);
-    const getMenuStyles =(menuOpened)=>{
-        if (menuOpened)
-        }
+    
     return(
         <section className="h-wrapper">
             <div className="flexCenter paddings innerWidth h-container">
