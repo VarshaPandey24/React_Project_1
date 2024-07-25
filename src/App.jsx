@@ -27,9 +27,6 @@ const App=() => {
     <Cont/>
     <GetStarted/>
     <Foot/>
-
-    
-  
    </div>
    
    
