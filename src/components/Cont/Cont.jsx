@@ -4,7 +4,7 @@ import { MdCall } from "react-icons/md";
 import { BsFillChatDotsFill } from "react-icons/bs";
 import { HiChatBubbleBottomCenter } from "react-icons/hi2";
 
-const contact = () => {
+const Cont = () => {
   return (
     <section className="c-wrapper">
       <div className="paddings innerWidth flexCenter c-container ">
